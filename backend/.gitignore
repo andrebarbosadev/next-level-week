@@ -1,0 +1,7 @@
+node_modules
+download
+uploads/*.jpeg
+uploads/*.jpg
+uploads/*.png
+
+*.sqlite
